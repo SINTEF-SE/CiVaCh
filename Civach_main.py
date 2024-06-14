@@ -1,6 +1,5 @@
 import numpy as np
 import torch
-#import matplotlib.pyplot as plt
 from segment_anything import sam_model_registry, SamAutomaticMaskGenerator, SamPredictor
 import FastSam
 import cv2
